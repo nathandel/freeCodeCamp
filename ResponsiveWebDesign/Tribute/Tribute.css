@@ -1,5 +1,34 @@
 #main {
+  font-family: 'Roboto', sans-serif;
   background-color: #d7e2f4;
   width: 80%;
   margin: 50px auto;
+  padding: 20px;
 }
+
+#title {
+  text-align: center;
+  margin: 10px 0 30px 0;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  margin: 10px;
+}
+
+#tribute-info {
+  padding: 20px;
+}
+
+
